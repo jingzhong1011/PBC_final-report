@@ -10,4 +10,5 @@ Use the simple method of web crawler: *beautifulsoup4* and *requests* to get the
 
 ### More about the project
 The whole project is about the Restaurant Recommender Around NTU.
+
 We collected restaurants around NTU and gave them the proper labeling. Users can choose the tags and our application will recommend some restaurants for them, futhermore, the application will give them the nearest Ubike2.0's information to their location and destination.
