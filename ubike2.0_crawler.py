@@ -60,7 +60,7 @@ def importData(path, station):
 url = 'https://taipei.youbike.com.tw/station/2_list?_id=5e0d9644bae27166af1d5903'
 station = crawler(url)
 print(station)
-doc_path = "C:\\Users\\Ching-Chung\\Documents\\NTU courses\\2020_autumn\\Programming for Business Computing\\Youbike2.0經緯度.csv"
+doc_path = "\Youbike2.0經緯度.csv"
 data1 = importData(doc_path, station)
 
 for i in range(len(data1)):
